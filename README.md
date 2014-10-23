@@ -1,5 +1,5 @@
-`from myface import myface`
+`import iansface`
 
-`print myface`
+`print iansface.txt`
 
 ![](https://giggles.hashbang.sh/myface.gif)
