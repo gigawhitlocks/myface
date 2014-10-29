@@ -1,5 +1,5 @@
 `import iansface`
 
-`print iansface.txt`
+`print iansface.text`
 
-![](https://giggles.hashbang.sh/myface.gif)
+![](https://giggles.hashbang.sh/iansface.gif)
