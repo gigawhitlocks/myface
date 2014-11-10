@@ -3,7 +3,7 @@
 from setuptools import setup
 
 setup(name='iansface', 
-      version='1.0',
+      version='1.1',
       description='A module for printing Ian\'s face.',
       author='gigawhitlocks',
       author_email='giggles@alum.hackerschool.com',
