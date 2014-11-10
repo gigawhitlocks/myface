@@ -3,7 +3,7 @@
 
 ##Usage:
 ###Command line:
-`$ iansface`
+Simply running `iansface` will print the beautiful ASCII art you so desire.
 
 ###As a module:
 
