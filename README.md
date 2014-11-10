@@ -1,3 +1,13 @@
+##Installation:
+`pip install iansface`
+
+##Usage:
+###Command line:
+`$ iansface`
+
+###As a module:
+
+
 `import iansface`
 
 `print iansface.text`
